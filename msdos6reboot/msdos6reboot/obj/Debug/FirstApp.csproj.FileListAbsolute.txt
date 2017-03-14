@@ -1,0 +1,6 @@
+c:\users\jacob\documents\visual studio 2017\Projects\FirstApp\FirstApp\bin\Debug\FirstApp.exe.config
+c:\users\jacob\documents\visual studio 2017\Projects\FirstApp\FirstApp\bin\Debug\FirstApp.exe
+c:\users\jacob\documents\visual studio 2017\Projects\FirstApp\FirstApp\bin\Debug\FirstApp.pdb
+c:\users\jacob\documents\visual studio 2017\Projects\FirstApp\FirstApp\obj\Debug\FirstApp.csprojResolveAssemblyReference.cache
+c:\users\jacob\documents\visual studio 2017\Projects\FirstApp\FirstApp\obj\Debug\FirstApp.exe
+c:\users\jacob\documents\visual studio 2017\Projects\FirstApp\FirstApp\obj\Debug\FirstApp.pdb
